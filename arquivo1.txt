@@ -5,5 +5,9 @@ linha 399999999999
 linha 4 feita no master
 linha 5 feito na master
 linha 6 feita no branch b1
+<<<<<<< HEAD
 linha 7 feita no branch  -feito local
+=======
+linha 7 feita no branch  --feito no github
+>>>>>>> e6b29226dbd3991d3e7f78b8f20aa096cb7454ea
 
