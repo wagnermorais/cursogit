@@ -5,5 +5,5 @@ linha 399999999999
 linha 4 feita no master
 linha 5 feito na master
 linha 6 feita no branch b1
-linha 7 feita no branch 
+linha 7 feita no branch  -feito local
 
